@@ -1,4 +1,5 @@
 <?php
+//TEST COMMIT 
 try
 {
 	$db = new PDO('mysql:host=localhost;dbname=remy;charset=utf8', 'root', '');
